@@ -27,7 +27,7 @@
 
 .business-details {
   width: 100%;
-  max-width: 800px;
+  max-width: 1000px;
   justify-content: center;
   align-items: center;
   margin: auto;
@@ -53,7 +53,7 @@
 .parent-4 {
   padding: 20px;
   background-color: #fffefe;
-  box-shadow: 2px 2px 2px 2px #808080;
+  box-shadow: 2px 2px 2px 2px #dfdbdb;
   border-radius: 5px;
   display: flex;
   flex-direction: column;
